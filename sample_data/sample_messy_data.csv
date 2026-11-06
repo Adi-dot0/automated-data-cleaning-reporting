@@ -1,0 +1,16 @@
+Customer ID, Customer Name ,Email,Age,City,Purchase Amount,Order Date
+1,Aarav Sharma,aarav@gmail.com,28,Delhi,1500,2024-01-05
+2,Priya Singh,priya.singh@yahoo.in,34,Mumbai,2300,05/02/2024
+3,Rahul Verma,rahul.verma@, ,Pune,1800,2024-02-10
+4,Sneha Patel,sneha@gmail.com,29,,3200,2024-03-01
+5,Amit Kumar,amit.kumar@gmail.com,41,Lucknow,,2024-03-15
+1,Aarav Sharma,aarav@gmail.com,28,Delhi,1500,2024-01-05
+6,Neha Gupta,neha.gupta@gmail.com,,Delhi,2750,15-03-2024
+7,Vikram Singh,vikram@outlook.com,36,Jaipur,-500,2024-04-02
+8,Ananya Roy,ananya.roy@gmail.com,26,Kolkata,4100,2024-04-10
+9,Rohit Mehta,not-an-email,33,Surat,1950,2024-04-18
+10,Kavita Joshi,kavita@gmail.com,30,Indore,2600,2024-05-01
+2,Priya Singh,priya.singh@yahoo.in,34,Mumbai,2300,05/02/2024
+11,Arjun Nair,arjun.nair@gmail.com,,Kochi,3400,2024-05-12
+12,Divya Iyer,divya.iyer@gmail.com,27,Chennai,,2024-05-20
+13,Manish Tiwari, manish@gmail.com ,45,Patna,2900,2024-06-01

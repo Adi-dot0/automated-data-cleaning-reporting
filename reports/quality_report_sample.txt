@@ -1,0 +1,23 @@
+DATA QUALITY REPORT
+========================================
+Total records: 15
+Total columns: 7
+Duplicate records (before cleaning): 2
+Total missing values (before cleaning): 5
+Quality score (after cleaning): 96.9 / 100
+
+CLEANING SUMMARY
+----------------------------------------
+- Standardized column names to lowercase with underscores
+- Removed extra spaces from text values
+- Removed 2 duplicate rows
+- Handled 6 missing values (numeric=median, category=mode, drop_rows=False)
+- Converted date columns to YYYY-MM-DD where possible
+Rows: 15 -> 13
+
+VALIDATION (after cleaning)
+----------------------------------------
+Missing values left: 0
+Duplicates left: 0
+Invalid emails in 'email': 2
+Negative values found: {'purchase_amount': 1}
