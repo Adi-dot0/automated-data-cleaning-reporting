@@ -3,6 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 processing_history.db
-reports/*.csv
-reports/*.xlsx
-!reports/.gitkeep
